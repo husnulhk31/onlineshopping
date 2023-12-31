@@ -1,0 +1,17 @@
+// Fonts
+@import url("https://fonts.bunny.net/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+@import "global";
+@import "fonts";
+@import "navbar";
+
+@import "pages/home";
+
+@import "components/categories";
+@import "components/products";
